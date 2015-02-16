@@ -6,3 +6,5 @@ function template(){
 	*/
 }
 console.log(template.toString().replace(/^[^\/]+\/\*!?/, '').replace(/\*\/[^\/]+$/, ''));
+//http://stackoverflow.com/questions/805107/creating-multiline-strings-in-javascript
+//http://mockjs.com/
